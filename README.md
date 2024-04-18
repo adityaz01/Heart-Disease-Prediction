@@ -11,6 +11,6 @@ Machine Learning algorithms used:
 2. Support Vector Machine (Linear) (Scikit-learn)
 3. K-Nearest Neighbours (Scikit-learn)
 
-Accuracy achieved: 90% (Random Forest)
+Accuracy achieved: 90% (Logistic Regression)
 
 Dataset used: https://www.kaggle.com/ronitf/heart-disease-uci
